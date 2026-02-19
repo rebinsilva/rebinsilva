@@ -15,7 +15,7 @@
 - 🔬 &nbsp;Research interests: **Approximate & Exact Graph frameworks**, **Parallel systems**, **GPU Programming** 
 - 📈 &nbsp; Other interests include **Computer Architecture**, **Programming Languages**
 - 💻 &nbsp;Experienced in **GPU Programming**, **Performance Optimization**, **DL Acceleration**
-- 🏛️&nbsp;Previously HPC Engineer at **KLA Corporation**, Research Intern at **Adobe**
+- 🏛️&nbsp;Previously HPC Engineer at **KLA Corporation**, Research Intern at **Adobe**, SDE Intern at **Maximl**
 - 📚 &nbsp;Previously Teaching Assistant for **CS201: Compiler Construction**, **CS6900: Reinforcement Learning**
 
 ---
