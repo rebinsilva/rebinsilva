@@ -11,11 +11,10 @@
 ## About Me
 
 - 🎓 &nbsp;PhD in Computer Science at **UC Riverside** (GPA: 4.0/4.0), advised by Prof. Rajiv Gupta
-- 🏛️ &nbsp;B.Tech + M.Tech from **IIT Madras** (GPA: 8.86/10)
+- 🏛️ &nbsp;B.Tech + M.Tech in Computer Science and Engineering from **IIT Madras** (GPA: 8.86/10)
 - 🔬 &nbsp;Research interests: **approximate & exact graph frameworks**, **Parallel systems**, **GPU Programming**
-- 💻 &nbsp;Previously HPC Engineer at **KLA Corporation**
-- 📚 &nbsp;Teaching Assistant for **CS201: Compiler Construction** — designed LLVM optimization pass assignments
-
+- 💻 &nbsp;Previously HPC Engineer at **KLA Corporation**, Research Intern at **Adobe**, SDE Intern at **Maximl**
+- 📚 &nbsp;Previously Teaching Assistant for **CS201: Compiler Construction**, **CS6900: Reinforcement Learning**
 ---
 
 
